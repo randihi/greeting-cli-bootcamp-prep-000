@@ -6,3 +6,5 @@ puts "I'm HAL, what's your name?"
 
 name = gets.strip
 greeting(name)
+
+puts "I'm HAL, what's your name?"
